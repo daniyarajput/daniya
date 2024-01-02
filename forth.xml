@@ -1,2 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="forth.xsl" type="text/xsl"?>
 
+<collection>
+   <item>
+    <title>empire burlesque</title>
+    <artist>bob dylan</artist>
+</item>
+<item>
+    <title>hide your heart</title>
+    <artist>bonnie tyler</artist>
+</item>
+<item>
+    <title>greated hits</title>
+    <artist>dolly parton</artist>
+</item>
+<item>
+    <title>still got the blue</title>
+    <artist>gray moore</artist>
+</item>
+<item>
+    <title>eros</title>
+    <artist>eros ramazzotti</artist>
+</item>
+<item>
+    <title>only right only</title>
+    <artist>bee gees</artist>
+</item>
+<item>
+    <title>sylvias</title>
+    <artist>dr hook</artist>
+</item>
+<item>
+    <title>maggie may</title>
+    <artist>rod stewart</artist>
+</item>
+</collection>
