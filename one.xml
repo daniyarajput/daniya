@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="one.xsl" type="text/xsl"?> 
+
+
+<organization>
+    <employee>
+        <name>asim</name>
+         <id>103</id>
+       <salary>200000</salary>
+
+    </employee>
+
+    <employee>
+        <name>qasim</name>
+         <id>104</id>
+       <salary>400000</salary>
+
+    </employee>
+
+    <employee>
+        <name>jasim</name>
+         <id>105</id>
+       <salary>300000</salary>
+
+    </employee>
+
+    <employee>
+        <name>jasim</name>
+         <id>105</id>
+       <salary>300000</salary>
+
+    </employee>
+</organization>
